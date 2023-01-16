@@ -1,0 +1,205 @@
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\bin\Debug\F_Project.exe.config
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\bin\Debug\F_Project.exe
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\bin\Debug\F_Project.pdb
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\bin\Debug\Guna.UI2.dll
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.csproj.AssemblyReference.cache
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.Cus_register.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.Form1.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.Properties.Resources.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.csproj.GenerateResource.cache
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.csproj.CoreCompileInputs.cache
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.csproj.CopyComplete
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.exe
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.pdb
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.add_Order.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.Package_Details.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.Payment_Details.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.View_Customer.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.Owner_main.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.create_user.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.add_items.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.damage_items.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.Pending_orders.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.released_order.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.store_details.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.Store_keeperMainpage.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.income.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.Cus_Smain.resources
+C:\Users\sanja\Desktop\Sola Project\F_Project\F_Project\obj\Debug\F_Project.payForm.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\F_Project.exe.config
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\F_Project.exe
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\F_Project.pdb
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Guna.UI2.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.csproj.AssemblyReference.cache
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.add_items.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.add_Order.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.create_user.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.Cus_Smain.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.Cus_register.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.damage_items.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.Form1.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.income.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.Owner_main.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.Package_Details.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.payForm.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.Payment_Details.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.Pending_orders.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.Properties.Resources.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.released_order.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.store_details.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.Store_keeperMainpage.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.View_Customer.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.csproj.GenerateResource.cache
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.csproj.CoreCompileInputs.cache
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.csproj.CopyComplete
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.exe
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.pdb
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\EnvDTE.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\stdole.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\Microsoft.MSXML.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\F_Project.customerReport.resources
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\RdlCompile.cache
+C:\Users\nisal\Downloads\F_Project\F_Project\obj\Debug\RdlCompile.compiled
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\F_Project.exe.config
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\F_Project.exe
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\F_Project.pdb
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Guna.UI2.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\EnvDTE.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\stdole.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\Microsoft.MSXML.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.csprojAssemblyReference.cache
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.add_items.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.add_Order.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.create_user.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.customerReport.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.Cus_Smain.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.Cus_register.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.damage_items.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.Form1.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.income.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.Owner_main.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.Package_Details.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.payForm.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.Payment_Details.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.Pending_orders.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.Properties.Resources.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.released_order.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.store_details.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.Store_keeperMainpage.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.View_Customer.resources
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.csproj.GenerateResource.cache
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.csproj.CoreCompileInputs.cache
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.csproj.CopyComplete
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.exe
+C:\Users\M C S\Downloads\F_Project\F_Project\obj\Debug\F_Project.pdb

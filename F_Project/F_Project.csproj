@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{129DFCD8-3B33-4654-8FE5-5AF56C424303}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>F_Project</RootNamespace>
+    <AssemblyName>F_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.3.2, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.2\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add_items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_items.Designer.cs">
+      <DependentUpon>add_items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_Order.Designer.cs">
+      <DependentUpon>add_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="create_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="create_user.Designer.cs">
+      <DependentUpon>create_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customerReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customerReport.Designer.cs">
+      <DependentUpon>customerReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cus_Smain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cus_Smain.Designer.cs">
+      <DependentUpon>Cus_Smain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cus_register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cus_register.Designer.cs">
+      <DependentUpon>Cus_register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="damage_items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="damage_items.Designer.cs">
+      <DependentUpon>damage_items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DGVPrinter.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="income.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="income.Designer.cs">
+      <DependentUpon>income.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Owner_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Owner_main.Designer.cs">
+      <DependentUpon>Owner_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Package_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package_Details.Designer.cs">
+      <DependentUpon>Package_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="payForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="payForm.Designer.cs">
+      <DependentUpon>payForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment_Details.Designer.cs">
+      <DependentUpon>Payment_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pending_orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pending_orders.Designer.cs">
+      <DependentUpon>Pending_orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="POrder.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="released_order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="released_order.Designer.cs">
+      <DependentUpon>released_order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="store_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="store_details.Designer.cs">
+      <DependentUpon>store_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store_keeperMainpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Store_keeperMainpage.Designer.cs">
+      <DependentUpon>Store_keeperMainpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Customer.Designer.cs">
+      <DependentUpon>View_Customer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="add_items.resx">
+      <DependentUpon>add_items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_Order.resx">
+      <DependentUpon>add_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="create_user.resx">
+      <DependentUpon>create_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customerReport.resx">
+      <DependentUpon>customerReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cus_Smain.resx">
+      <DependentUpon>Cus_Smain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cus_register.resx">
+      <DependentUpon>Cus_register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="damage_items.resx">
+      <DependentUpon>damage_items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="income.resx">
+      <DependentUpon>income.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Owner_main.resx">
+      <DependentUpon>Owner_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package_Details.resx">
+      <DependentUpon>Package_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="payForm.resx">
+      <DependentUpon>payForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment_Details.resx">
+      <DependentUpon>Payment_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pending_orders.resx">
+      <DependentUpon>Pending_orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="released_order.resx">
+      <DependentUpon>released_order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="store_details.resx">
+      <DependentUpon>store_details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store_keeperMainpage.resx">
+      <DependentUpon>Store_keeperMainpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Customer.resx">
+      <DependentUpon>View_Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-menu-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-property-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-property-301.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cheque-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-payment-28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-view-28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-package-28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3394bf0a70b6dbfb65f52fa7df544635--photoshop-design-free-photoshop.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_329144637_fLag9jYbaYQwo3apYr8OEzTrdUWWwXCR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract-background-red-and-white-free-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-logout-28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-back-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_dphoto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-menu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-menu1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menuOWNER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\071bcee243b81fc296e55faf03984472.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_329144637_fLag9jYbaYQwo3apYr8OEzTrdUWWwXCR1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24-240228_simple-background-map-of-ink-painting-.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract-blue-and-gray-wave-background-free-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1145349711-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-login-64 %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-search-28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-print-28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-print-44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2018-11-29-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aami13-79-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1281579246-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin_cash_flow_transaction-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-pay-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cash-in-hand-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cash-in-hand-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cash-in-hand-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-stock-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-order-history-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-done-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-income-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-shopping-cart-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-stock-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-user-group-woman-man-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bk1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bk2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bk3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bk4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bk5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bk6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
